@@ -1,5 +1,5 @@
 {
-  name: '👍',
-  version: '1.0',
-  main: '👍.js'
+  "name": "thumbup",
+  "version": "1.0.1",
+  "main": "thumbup.js"
 }
