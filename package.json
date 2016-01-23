@@ -1,5 +1,6 @@
 {
   "name": "thumbup",
-  "version": "1.0.2",
-  "main": "thumbup.js"
+  "version": "1.0.3",
+  "main": "thumbup.js",
+  "url": "https://github.com/evgenyzinoviev/thumbup"
 }
